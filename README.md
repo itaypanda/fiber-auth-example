@@ -129,15 +129,6 @@ I am not a security expert, so this project may contain unsafe/not updated code.
 
 ## 💙 Thanks
 
-**Thanks to Tailwind CSS / Tailwind Labs, Inc.**
-
-https://github.com/tailwindlabs/tailwindcss/blob/master/LICENSE
-
-https://github.com/tailwindlabs/tailwindcs
-
-https://tailwindcss.com/
-
-
 **Thanks to Go Fiber / Fenny and Contributors**
 
 https://github.com/gofiber/fiber/blob/master/LICENSE
